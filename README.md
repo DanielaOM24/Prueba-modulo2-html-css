@@ -1,5 +1,5 @@
 # Prueba Modulo 2 html-css
-## información coder
+## Información coder
 - Clan: Lovelace
 - Nombre: Daniela Orrego Marín 
 - Correo: danielaorrego4@outlook.com
