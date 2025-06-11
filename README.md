@@ -1,5 +1,12 @@
 # Prueba Modulo 2 html-css
-Proyecto de Sitio Web
+## información coder
+-clan: Lovelace
+-Nombre: Daniela Orrego Marín 
+-Correo: danielaorrego4@outlook.com
+-Documento:1000294983
+
+
+# Proyecto de Sitio Web
 
 ## Descripción
 Este proyecto es un sitio web básico creado con HTML y CSS. El sitio web consta de tres páginas: "Sobre mí", "Servicios" y "Contacto", que se enlazan entre sí mediante un menú de navegación. El sitio web es responsivo y se adapta a diferentes dispositivos, incluyendo PC, tabletas y dispositivos móviles.
